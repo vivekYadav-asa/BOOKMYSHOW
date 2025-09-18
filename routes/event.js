@@ -1,0 +1,1 @@
+//routes for mangaging the all the event 
